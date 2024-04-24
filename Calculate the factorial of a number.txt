@@ -12,5 +12,5 @@ int main()
 	cout<<sum<<endl;
 
 	cout<< "Extend the previous verion"<<endl;
-conflict resolve solved in Rebashing
+
 }
