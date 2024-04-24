@@ -12,5 +12,7 @@ int main()
 	cout<<sum<<endl;
 
 	cout<< "Extend the previous verion"<<endl;
-	jdlkjfdhfjhdfhkjdhf
+	jdlkjfdhfjhdfhkjdhf jljdhfdhfdhskldsjklfjs
+	njljsjdfhfjhdfd
+	njsjjfdhf
 }
